@@ -4,27 +4,50 @@
     <title>jimdab.com</title>
     <description>Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
 </description>
-    <link>http://jimdab.com/</link>
-    <atom:link href="http://jimdab.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Mar 2018 15:07:19 -0500</pubDate>
-    <lastBuildDate>Sun, 18 Mar 2018 15:07:19 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Mar 2018 18:39:53 -0500</pubDate>
+    <lastBuildDate>Fri, 23 Mar 2018 18:39:53 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Kitchen Remodel Part II</title>
+        <description>&lt;p&gt;Today we met with our project manager, Jerry, for our kitchen remodel. We went over the final estimates and the contract. He gave us a nice overview of how the process will work and what they’ll do. He says to be ready for some stressful times. I think we are.&lt;/p&gt;
+
+&lt;p&gt;Here is a picture of the new floor plan I talked about in the previous post.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ignore the way the seating is drawn in there — otherwise its all correct. One big island, fridge built into the wall where we currently have pantry-style cabinets. Take out most of the wall between the kitchen and the family room. Gonna be messy around here for a while (9 weeks!) and Dena and I will be living in the basement that whole time. Should be “fun”.&lt;/p&gt;
+
+&lt;p&gt;We actually had a few questions about the contract after we read it over and sent off an email asking for clarification on a few issues. Mostly minor, we’ll see what they say. I’m not too worried. Next step is to get the revised contract signed, give them a bunch of money to start and off we go!&lt;/p&gt;
+
+&lt;p&gt;JIm&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
+        
+        
+        <category>kitchen</category>
+        
+      </item>
     
       <item>
         <title>Kitchen Remodel Part I</title>
         <description>&lt;p&gt;We decided to remodel our kitchen. Mind you, our kitchen looks fine the way it is…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;but there are some problems. Mostly they stem from the fact that all the cabinet doors are falling off. You see, the previous owners seem to have had all the doors removed, stripped and restained to the color you see here. While that worked fine, one problem we’re finding is that the side walls of the cabinets are that cheap particle board and when you remove screws from it and then try to re-screw the hinges back into the same place, they just don’t stay. So we end up with a number of them looking like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To make matters worse in one place, they wanted a big cabinet, so they just cut out the center partition that holds things up and we now have this happening.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So we want a change.&lt;/p&gt;
 
@@ -38,7 +61,7 @@
 
 &lt;p&gt;Here is how the kitchen is laid out now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re going to remove the peninsula and replace it with a big island. We’re also going to remove the wall between the kitchen and the family room to go with a more open concept.&lt;/p&gt;
 
@@ -47,8 +70,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Mar 2018 00:00:00 -0500</pubDate>
-        <link>http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</guid>
+        <link>http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</guid>
         
         
         <category>kitchen</category>
@@ -84,8 +107,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Mar 2018 00:00:00 -0600</pubDate>
-        <link>http://jimdab.com/boat/2018/03/11/back-to-boating.html</link>
-        <guid isPermaLink="true">http://jimdab.com/boat/2018/03/11/back-to-boating.html</guid>
+        <link>http://localhost:4000/boat/2018/03/11/back-to-boating.html</link>
+        <guid isPermaLink="true">http://localhost:4000/boat/2018/03/11/back-to-boating.html</guid>
         
         
         <category>boat</category>
@@ -111,8 +134,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;Like I said at the start, my initial reactions Thursday night were WTF and SMH. After a few days and a few deep breaths, I am beginning to be more optimistic. Only time will tell if Pace is right. Until then I’m going to remain hopeful and continue to cheer on the Chicago Bears.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 -0500</pubDate>
-        <link>http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
-        <guid isPermaLink="true">http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
+        <link>http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
         
         
         <category>Bears</category>
@@ -134,8 +157,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</link>
-        <guid isPermaLink="true">http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</guid>
+        <link>http://localhost:4000/thoughts/2017/02/12/that-franklin-quote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2017/02/12/that-franklin-quote.html</guid>
         
         
         <category>thoughts</category>
@@ -147,8 +170,8 @@ You see, the next row of planking has to go even with the waterway and there are
         <description>&lt;p&gt;Well that was embarrassing. I wanted to post something here yesterday, fired up my computer, looked in my Sites directory, saw all my files and realized I had no idea which tool I used to build this site. I’ve obsessed for years trying to find the “right” tool to use and have tried many, many tools. Eventually I apparently picked one but now had no idea which one. Looked around my site and my last post was from over a year ago. &lt;em&gt;sigh&lt;/em&gt; This morning I realized that I might have blogged about it. So I looked at a past post and found my &lt;a href=&quot;/blog/2014/08/24/blog-reboot.html&quot;&gt;blog reboot post&lt;/a&gt; wherein I mentioned that I used &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Yay! Of course, for some reason Jekyll wasn’t installed on this machine so I had to reinstall it, but that was easy and now I’m back up and running so when inspiration strikes, I can post. (I’ve also updated the footer on this site to remind me what tool I use to do this.)&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Dec 2016 06:00:00 -0600</pubDate>
-        <link>http://jimdab.com/blog/2016/12/15/well-that-was-embarrassing.html</link>
-        <guid isPermaLink="true">http://jimdab.com/blog/2016/12/15/well-that-was-embarrassing.html</guid>
+        <link>http://localhost:4000/blog/2016/12/15/well-that-was-embarrassing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/15/well-that-was-embarrassing.html</guid>
         
         
         <category>blog</category>
@@ -176,8 +199,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;Scaliwag: born 1998?, died August 14, 2015&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Aug 2015 05:00:00 -0500</pubDate>
-        <link>http://jimdab.com/cat/2015/08/15/we-killed-our-cat-yesterday.html</link>
-        <guid isPermaLink="true">http://jimdab.com/cat/2015/08/15/we-killed-our-cat-yesterday.html</guid>
+        <link>http://localhost:4000/cat/2015/08/15/we-killed-our-cat-yesterday.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cat/2015/08/15/we-killed-our-cat-yesterday.html</guid>
         
         
         <category>cat</category>
@@ -201,8 +224,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Sep 2014 07:18:00 -0500</pubDate>
-        <link>http://jimdab.com/thoughts/2014/09/02/its-the-little-things.html</link>
-        <guid isPermaLink="true">http://jimdab.com/thoughts/2014/09/02/its-the-little-things.html</guid>
+        <link>http://localhost:4000/thoughts/2014/09/02/its-the-little-things.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/02/its-the-little-things.html</guid>
         
         
         <category>thoughts</category>
@@ -219,11 +242,11 @@ You see, the next row of planking has to go even with the waterway and there are
 
 &lt;p&gt;I’ve used both apps today on my first non-Libby run. Here is what Map My Run looks like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/mapmyrun.png&quot; alt=&quot;Screen shot of Map My Run&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/mapmyrun.png&quot; alt=&quot;Screen shot of Map My Run&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And here is what Run Keeper looks like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/runkeeper.png&quot; alt=&quot;Screen shot of Run Keeper&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/runkeeper.png&quot; alt=&quot;Screen shot of Run Keeper&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thus far I like Run Keeper more. The app seemed more intuitive to me, presents the data more clearly and overall I just like it. I know that’s not much of a review but I plan to keep using both for a while and write a more in-depth review later.&lt;/p&gt;
 
@@ -232,8 +255,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 16:26:00 -0500</pubDate>
-        <link>http://jimdab.com/jogging/2014/08/31/i-think-im-a-jogger.html</link>
-        <guid isPermaLink="true">http://jimdab.com/jogging/2014/08/31/i-think-im-a-jogger.html</guid>
+        <link>http://localhost:4000/jogging/2014/08/31/i-think-im-a-jogger.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jogging/2014/08/31/i-think-im-a-jogger.html</guid>
         
         
         <category>jogging</category>
@@ -257,58 +280,11 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Aug 2014 08:12:00 -0500</pubDate>
-        <link>http://jimdab.com/blog/2014/08/24/blog-reboot.html</link>
-        <guid isPermaLink="true">http://jimdab.com/blog/2014/08/24/blog-reboot.html</guid>
+        <link>http://localhost:4000/blog/2014/08/24/blog-reboot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2014/08/24/blog-reboot.html</guid>
         
         
         <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>May the Fourth...</title>
-        <description>&lt;p&gt;OK, I succumbed to the whole “May the 4th” thing and decided to get my geek on and watch Star Wars tonight. My mistake. When we moved last summer we decided to set up the home theater in the basement and leave the TV in the living room as just a TV (with an AppleTV hooked up to it). Up until now that arrangement has worked just fine.&lt;/p&gt;
-
-&lt;p&gt;Tonight I wanted to watch Star Wars. No problem.&lt;/p&gt;
-
-&lt;p&gt;Oh wait, problem, my TV upstairs doesn’t have a DVD/Blu-Ray player hooked up to it and I don’t feel like sitting in the basement.&lt;/p&gt;
-
-&lt;p&gt;Oh, wait, no problem, I’ll just stream it from my computer to the AppleTV. Cool.&lt;/p&gt;
-
-&lt;p&gt;Oh wait, problem. My recent MacBook Pro doesn’t have a DVD drive in it. Damn.&lt;/p&gt;
-
-&lt;p&gt;Oh wait, no problem, I’ll just use my older MacBook computer that I use for work. That has a DVD drive in it.&lt;/p&gt;
-
-&lt;p&gt;Oh crap. That machine is too old and can’t stream to AppleTV. Grrrr.&lt;/p&gt;
-
-&lt;p&gt;Ah hah, I’ll just use Apple’s drive-sharing feature and share the old machine’s DVD drive with my MacBook Pro and stream to the AppleTV that way. I’m so clever.&lt;/p&gt;
-
-&lt;p&gt;No dice. My MacBook Pro froze up in trying to do that and I had to force reboot.&lt;/p&gt;
-
-&lt;p&gt;I know, I’ll drag out that old USB DVD drive I have sitting in my desk drawer for just such occasions. OK, I’m good to go! Movie playing, stream to AppleTV. Grey box. WTF? The movie is playing, I’m hearing video, but the DVD player window is only showing a big grey box where the movie should be.&lt;/p&gt;
-
-&lt;p&gt;Quick google search…&lt;/p&gt;
-
-&lt;p&gt;Yep. Apple does not allow its DVD player app to stream to AppleTVs. WTF Apple.&lt;/p&gt;
-
-&lt;p&gt;What does…google search…VLC. Ah hah! &lt;a href=&quot;http://www.videolan.org/vlc/index.html&quot;&gt;Download VLC&lt;/a&gt;, easy to install, get it running. Playing, streaming to AppleTV. Ta-da! Whew.&lt;/p&gt;
-
-&lt;p&gt;30 seconds later…&lt;/p&gt;
-
-&lt;p&gt;WTF?!?! The movie just froze on the TV. Still playing on the computer, but froze on the TV. Now, the computer is locking up. Hmmm, now the movie stopped playing on the computer and AirPlay is no longer an option available on my menu bar. sigh. I give up.&lt;/p&gt;
-
-&lt;p&gt;I get the whole anti-piracy stance that Apple takes. I’m against copying, I don’t steal content just because I want something and it’s not conveniently available to me. But what is the point of all the above? I’m not trying to steal anything, I just want to watch a DVD I purchased. I ought to be able to view it on whatever device I want without Apple or the DVD publishers deciding that certain screens are forbidden to me. Furthermore, who is this stopping? Grandmas? Anyone sufficiently technologically capable can work around all these stupid precautions. The only people these roadblocks actually stop are people who would never be interested in pirating the videos in the first place.&lt;/p&gt;
-
-&lt;p&gt;I guess instead of watching Star Wars tonight, I’ll rip the DVD to my computer with &lt;a href=&quot;http://handbrake.fr&quot;&gt;Handbrake&lt;/a&gt; and watch it that way.&lt;/p&gt;
-
-&lt;p&gt;JIm&lt;/p&gt;
-</description>
-        <pubDate>Sun, 04 May 2014 00:00:00 -0500</pubDate>
-        <link>http://jimdab.com/thoughts/2014/05/04/may-the-fourth.html</link>
-        <guid isPermaLink="true">http://jimdab.com/thoughts/2014/05/04/may-the-fourth.html</guid>
-        
-        
-        <category>thoughts</category>
         
       </item>
     
