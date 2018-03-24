@@ -4,11 +4,24 @@
     <title>jimdab.com</title>
     <description>Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
 </description>
-    <link>http://jimdab.com/</link>
-    <atom:link href="http://jimdab.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Mar 2018 07:35:52 -0500</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 07:35:52 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Mar 2018 09:19:23 -0500</pubDate>
+    <lastBuildDate>Sat, 24 Mar 2018 09:19:23 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>This is a Test</title>
+        <description>&lt;p&gt;This is test of the emergency blogging system. If this had been an actual blogging emergency we would have provided information about what do to next. This is only a test.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2018/03/24/this-is-only-a-test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/03/24/this-is-only-a-test.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Kitchen Remodel Part II</title>
@@ -16,7 +29,7 @@
 
 &lt;p&gt;Here is a picture of the new floor plan I talked about in the previous post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ignore the way the seating is drawn in there — otherwise its all correct. One big island, fridge built into the wall where we currently have pantry-style cabinets. Take out most of the wall between the kitchen and the family room. Gonna be messy around here for a while (9 weeks!) and Dena and I will be living in the basement that whole time. Should be “fun”.&lt;/p&gt;
 
@@ -25,8 +38,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 00:00:00 -0500</pubDate>
-        <link>http://jimdab.com/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
+        <link>http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
         
         
         <category>kitchen</category>
@@ -37,17 +50,17 @@
         <title>Kitchen Remodel Part I</title>
         <description>&lt;p&gt;We decided to remodel our kitchen. Mind you, our kitchen looks fine the way it is…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;but there are some problems. Mostly they stem from the fact that all the cabinet doors are falling off. You see, the previous owners seem to have had all the doors removed, stripped and restained to the color you see here. While that worked fine, one problem we’re finding is that the side walls of the cabinets are that cheap particle board and when you remove screws from it and then try to re-screw the hinges back into the same place, they just don’t stay. So we end up with a number of them looking like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To make matters worse in one place, they wanted a big cabinet, so they just cut out the center partition that holds things up and we now have this happening.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So we want a change.&lt;/p&gt;
 
@@ -61,7 +74,7 @@
 
 &lt;p&gt;Here is how the kitchen is laid out now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re going to remove the peninsula and replace it with a big island. We’re also going to remove the wall between the kitchen and the family room to go with a more open concept.&lt;/p&gt;
 
@@ -70,8 +83,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Mar 2018 00:00:00 -0500</pubDate>
-        <link>http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</guid>
+        <link>http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</guid>
         
         
         <category>kitchen</category>
@@ -107,8 +120,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Mar 2018 00:00:00 -0600</pubDate>
-        <link>http://jimdab.com/boat/2018/03/11/back-to-boating.html</link>
-        <guid isPermaLink="true">http://jimdab.com/boat/2018/03/11/back-to-boating.html</guid>
+        <link>http://localhost:4000/boat/2018/03/11/back-to-boating.html</link>
+        <guid isPermaLink="true">http://localhost:4000/boat/2018/03/11/back-to-boating.html</guid>
         
         
         <category>boat</category>
@@ -134,8 +147,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;Like I said at the start, my initial reactions Thursday night were WTF and SMH. After a few days and a few deep breaths, I am beginning to be more optimistic. Only time will tell if Pace is right. Until then I’m going to remain hopeful and continue to cheer on the Chicago Bears.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 -0500</pubDate>
-        <link>http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
-        <guid isPermaLink="true">http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
+        <link>http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
         
         
         <category>Bears</category>
@@ -157,8 +170,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</link>
-        <guid isPermaLink="true">http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</guid>
+        <link>http://localhost:4000/thoughts/2017/02/12/that-franklin-quote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2017/02/12/that-franklin-quote.html</guid>
         
         
         <category>thoughts</category>
@@ -170,8 +183,8 @@ You see, the next row of planking has to go even with the waterway and there are
         <description>&lt;p&gt;Well that was embarrassing. I wanted to post something here yesterday, fired up my computer, looked in my Sites directory, saw all my files and realized I had no idea which tool I used to build this site. I’ve obsessed for years trying to find the “right” tool to use and have tried many, many tools. Eventually I apparently picked one but now had no idea which one. Looked around my site and my last post was from over a year ago. &lt;em&gt;sigh&lt;/em&gt; This morning I realized that I might have blogged about it. So I looked at a past post and found my &lt;a href=&quot;/blog/2014/08/24/blog-reboot.html&quot;&gt;blog reboot post&lt;/a&gt; wherein I mentioned that I used &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Yay! Of course, for some reason Jekyll wasn’t installed on this machine so I had to reinstall it, but that was easy and now I’m back up and running so when inspiration strikes, I can post. (I’ve also updated the footer on this site to remind me what tool I use to do this.)&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Dec 2016 06:00:00 -0600</pubDate>
-        <link>http://jimdab.com/blog/2016/12/15/well-that-was-embarrassing.html</link>
-        <guid isPermaLink="true">http://jimdab.com/blog/2016/12/15/well-that-was-embarrassing.html</guid>
+        <link>http://localhost:4000/blog/2016/12/15/well-that-was-embarrassing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/15/well-that-was-embarrassing.html</guid>
         
         
         <category>blog</category>
@@ -199,8 +212,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;Scaliwag: born 1998?, died August 14, 2015&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Aug 2015 05:00:00 -0500</pubDate>
-        <link>http://jimdab.com/cat/2015/08/15/we-killed-our-cat-yesterday.html</link>
-        <guid isPermaLink="true">http://jimdab.com/cat/2015/08/15/we-killed-our-cat-yesterday.html</guid>
+        <link>http://localhost:4000/cat/2015/08/15/we-killed-our-cat-yesterday.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cat/2015/08/15/we-killed-our-cat-yesterday.html</guid>
         
         
         <category>cat</category>
@@ -224,8 +237,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Sep 2014 07:18:00 -0500</pubDate>
-        <link>http://jimdab.com/thoughts/2014/09/02/its-the-little-things.html</link>
-        <guid isPermaLink="true">http://jimdab.com/thoughts/2014/09/02/its-the-little-things.html</guid>
+        <link>http://localhost:4000/thoughts/2014/09/02/its-the-little-things.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/02/its-the-little-things.html</guid>
         
         
         <category>thoughts</category>
@@ -242,11 +255,11 @@ You see, the next row of planking has to go even with the waterway and there are
 
 &lt;p&gt;I’ve used both apps today on my first non-Libby run. Here is what Map My Run looks like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/mapmyrun.png&quot; alt=&quot;Screen shot of Map My Run&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/mapmyrun.png&quot; alt=&quot;Screen shot of Map My Run&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And here is what Run Keeper looks like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/runkeeper.png&quot; alt=&quot;Screen shot of Run Keeper&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/runkeeper.png&quot; alt=&quot;Screen shot of Run Keeper&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thus far I like Run Keeper more. The app seemed more intuitive to me, presents the data more clearly and overall I just like it. I know that’s not much of a review but I plan to keep using both for a while and write a more in-depth review later.&lt;/p&gt;
 
@@ -255,36 +268,11 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 16:26:00 -0500</pubDate>
-        <link>http://jimdab.com/jogging/2014/08/31/i-think-im-a-jogger.html</link>
-        <guid isPermaLink="true">http://jimdab.com/jogging/2014/08/31/i-think-im-a-jogger.html</guid>
+        <link>http://localhost:4000/jogging/2014/08/31/i-think-im-a-jogger.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jogging/2014/08/31/i-think-im-a-jogger.html</guid>
         
         
         <category>jogging</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog Reboot</title>
-        <description>&lt;p&gt;Welcome to my blog reboot.&lt;/p&gt;
-
-&lt;p&gt;This blog has completely languished for a long time. No, I haven’t been working on my boat either, hopefully that comes next. No, I’ve been experiencing paralysis by analysis.&lt;/p&gt;
-
-&lt;p&gt;I wasn’t really happy with MoveableType as the engine of my blog. Call me stupid but I just couldn’t get the hang of tweaking the templates and the CSS to get things to look the way I wanted. So, I decided to move to something else, but what?&lt;/p&gt;
-
-&lt;p&gt;There began my long, lonely search for a new thing to generate my blog. I knew I wanted a static blog and I wanted one that had would generate some clean, neat HTML and CSS that I could understand and tweak as I desired. I looked at a bunch: &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, &lt;a href=&quot;http://blog.getpelican.com&quot;&gt;Pelican&lt;/a&gt;, &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt;, &lt;a href=&quot;http://getnikola.com&quot;&gt;Nikola&lt;/a&gt;, &lt;a href=&quot;https://github.com/koenbok/Cactus&quot;&gt;Cactus&lt;/a&gt; and many more that I can no longer recall. (I actually kinda wish I had kept track and kept notes, it would have made a great meta-review of static blog posting enginges.) In the end I chose &lt;a href=&quot;http://wintersmith.io&quot;&gt;wintersmith&lt;/a&gt;. What you see is the result of this search (update a year later: no it’s not. I just switched again, this time to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jeckyl&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;I like wintersmith. There are some things I don’t like about the organization of the files. I would prefer it if I could have all my files organized in a hierarchical directory system organized by year, month and day (the articles currently all just reside in one big directory) and I don’t fully get the templating system enough quite yet to tweak it completely to my liking. But, I can live with the directory structure, I probably won’t be posting more than one time per day anyway and I can learn the template system over time.&lt;/p&gt;
-
-&lt;p&gt;So now hopefully I will start to actually write here on a regular basis. Next step is to get back to work on my boat. I’m embarassed at how long it’s been since I’ve worked on it.&lt;/p&gt;
-
-&lt;p&gt;JIm&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Aug 2014 08:12:00 -0500</pubDate>
-        <link>http://jimdab.com/blog/2014/08/24/blog-reboot.html</link>
-        <guid isPermaLink="true">http://jimdab.com/blog/2014/08/24/blog-reboot.html</guid>
-        
-        
-        <category>blog</category>
         
       </item>
     
