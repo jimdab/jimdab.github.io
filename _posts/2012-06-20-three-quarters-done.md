@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 3/4 Done
+date: 2012-06-20 00:00:00 Z
+categories:
+- boat
+layout: post
 author: jimdab
-date: 2012-06-20
-categories: boat
 ---
 
 I’m three-quarters of the way done with planking the boat!

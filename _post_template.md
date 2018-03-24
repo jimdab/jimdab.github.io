@@ -1,9 +1,10 @@
 ---
+title: Post Title
+date: 1970-01-01 00:00:00 Z
 layout: post
-title: "Post Title"
-date: yyyy-mm-dd hh:mm:ss
 categories: 
 ---
+
 And put your brilliant writing here. 
 
 ![alt text]({{ site.url }}/img/filename.jpg)

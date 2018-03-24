@@ -1,9 +1,11 @@
 ---
+title: We Killed Our Cat Yesterday
+date: 2015-08-15 05:00:00 Z
+categories:
+- cat
 layout: post
-title:  "We Killed Our Cat Yesterday"
-date:   2015-08-15 05:00
-categories: cat
 ---
+
 We killed our cat yesterday. Well, more accurately, we had him killed yesterday. Such a blunt way of putting it, yet it’s accurate. In polite society we say we "had him put down" which sounds so much nicer  yet amounts to the same thing. His name was Scaliwag (and it bugs me that all my spell-checkers insist his name should be spelled ‘Scalawag’ instead) and he’d been a part of our family for about 15 years. 
 
 We got him when he was somewhere around two or three. Dena had a patient who had been a cat breeder and was getting out of the business. We agreed to adopt Scaliwag into a family that already had 2 other cats: Broccoli and Cauliflower (kinda messed up that vegetable-naming thing we had going on). He fit in OK for the most part. Broccoli was an adult boy black-and-white while Cauliflower was a young tortoise-shell girl. Scaliwag was a young, lean, active and somewhat skittish Siamese with beautiful, sleek tan fur fading to black at the paws and face with strikingly blue eyes. A really beautiful cat. 

@@ -1,9 +1,11 @@
 ---
+title: That Ben Franklin Quote
+date: 2017-02-12 00:00:00 Z
+categories:
+- thoughts
 layout: post
-title: "That Ben Franklin Quote"
-date: 2017-02-12
-categories: thoughts
 ---
+
 Hmm. Lately again I've seen this quote floating around on Facebook and other social media sites: 
 
 > "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety" -- Ben Franklin

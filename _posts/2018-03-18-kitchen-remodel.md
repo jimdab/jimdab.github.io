@@ -1,9 +1,11 @@
 ---
+title: Kitchen Remodel Part I
+date: 2018-03-18 00:00:00 Z
+categories:
+- kitchen
 layout: post
-title: "Kitchen Remodel Part I"
-date: 2018-03-18
-categories: kitchen
 ---
+
 We decided to remodel our kitchen. Mind you, our kitchen looks fine the way it is…
 
 ![Kitchen 1]({{ site.url }}/img/IMG_1115.jpg)

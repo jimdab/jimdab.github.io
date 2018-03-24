@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Making Little Sticks
-date: 2013-01-26 10:08 AM
-categories: boat
+date: 2013-01-26 10:08:00 Z
+categories:
+- boat
+layout: post
 ---
 
 As promised, here is a little tale of how I made all the little sticks I needed for the trenailing featured in the last post.

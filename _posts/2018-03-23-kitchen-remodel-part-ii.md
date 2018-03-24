@@ -1,9 +1,11 @@
 ---
+title: Kitchen Remodel Part II
+date: 2018-03-23 00:00:00 Z
+categories:
+- kitchen
 layout: post
-title: "Kitchen Remodel Part II"
-date: 2018-03-23
-categories: kitchen
 ---
+
 Today we met with our project manager, Jerry, for our kitchen remodel. We went over the final estimates and the contract. He gave us a nice overview of how the process will work and what they'll do. He says to be ready for some stressful times. I think we are. 
 
 Here is a picture of the new floor plan I talked about in the previous post. 
