@@ -6,9 +6,24 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Mar 2018 09:19:23 -0500</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 09:19:23 -0500</lastBuildDate>
+    <pubDate>Mon, 26 Mar 2018 19:54:32 -0500</pubDate>
+    <lastBuildDate>Mon, 26 Mar 2018 19:54:32 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Kitchen Remodel Part III</title>
+        <description>&lt;p&gt;Signed the contract today. Sent off 25% downpayment. We’ll see what happens next!&lt;/p&gt;
+
+&lt;p&gt;JIm&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/kitchen/2018/03/26/kitchen-remodel-part-iii.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/26/kitchen-remodel-part-iii.html</guid>
+        
+        
+        <category>kitchen</category>
+        
+      </item>
     
       <item>
         <title>This is a Test</title>
@@ -242,37 +257,6 @@ You see, the next row of planking has to go even with the waterway and there are
         
         
         <category>thoughts</category>
-        
-      </item>
-    
-      <item>
-        <title>I think I'm a Jogger</title>
-        <description>&lt;p&gt;OK, I think I’m a jogger.&lt;/p&gt;
-
-&lt;p&gt;Over a year ago, my wife decided she needed to exercise more. Unlike most people, she actually went out and did it. She decided she wanted to run a 5K to start, bought the &lt;a href=&quot;http://www.active.com/mobile/c25k/&quot;&gt;Couch to 5K&lt;/a&gt; app for her iPhone and started training. My daughter decided to train with her and the two of them were happy joggers all summer. I resisted their entreaties to join them. Come fall, my daughter went off to college and stopped running while my wife kept at it, ran her first 5K last September, has done several since then and is now in training for a half-marathon (yikes!).&lt;/p&gt;
-
-&lt;p&gt;Last May when my daughter came home from college for the summer, she decided she needed to get back running. After pestering me for some time, I finally decided to join her (I couldn’t resist her pleas) and she and I completed the same app and ran our first 5K in August! Now, my daughter is back at school and I’ve decided to keep running. She suggested posting my runs on Facebook so that we could nag each other to keep running. So, I picked two apps: &lt;a href=&quot;http://www.mapmyrun.com&quot;&gt;Map My Run&lt;/a&gt; and &lt;a href=&quot;http://runkeeper.com&quot;&gt;Run Keeper&lt;/a&gt; to try out. (My wife said these were the two leading apps.)&lt;/p&gt;
-
-&lt;p&gt;I’ve used both apps today on my first non-Libby run. Here is what Map My Run looks like:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/mapmyrun.png&quot; alt=&quot;Screen shot of Map My Run&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And here is what Run Keeper looks like:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/runkeeper.png&quot; alt=&quot;Screen shot of Run Keeper&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thus far I like Run Keeper more. The app seemed more intuitive to me, presents the data more clearly and overall I just like it. I know that’s not much of a review but I plan to keep using both for a while and write a more in-depth review later.&lt;/p&gt;
-
-&lt;p&gt;Stay tuned.&lt;/p&gt;
-
-&lt;p&gt;JIm&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Aug 2014 16:26:00 -0500</pubDate>
-        <link>http://localhost:4000/jogging/2014/08/31/i-think-im-a-jogger.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jogging/2014/08/31/i-think-im-a-jogger.html</guid>
-        
-        
-        <category>jogging</category>
         
       </item>
     
