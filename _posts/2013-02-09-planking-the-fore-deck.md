@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Planking the Fore Deck
-date: 2013-02-09 8:42 AM
-categories: boat
+date: 2013-02-09 08:42:00 Z
+categories:
+- boat
+layout: post
 ---
 
 Now it's time to move on to planking the deck! I've decided to start with the fore deck (the front half of the boat). 

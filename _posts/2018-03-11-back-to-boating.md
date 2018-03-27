@@ -1,9 +1,11 @@
 ---
+title: Back to Boating
+date: 2018-03-11 00:00:00 Z
+categories:
+- boat
 layout: post
-title: "Back to Boating"
-date: 2018-03-11
-categories: boat
 ---
+
 I'm back to boating! Got off my butt recently and got started on it again. From the last blog post from, gosh, 2013 I was working on the nibbing strake on the foredeck. Wow, made a bit of progress since then. 
 
 First off, I got the aft deck completely planked. 

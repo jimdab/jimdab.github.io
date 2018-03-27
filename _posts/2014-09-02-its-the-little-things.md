@@ -1,8 +1,9 @@
 ---
-layout: post
 title: It's the Little Things
-date: 2014-9-2 7:18 AM
-categories: thoughts
+date: 2014-09-02 07:18:00 Z
+categories:
+- thoughts
+layout: post
 ---
 
 It's taking pleasure in the little things in life that helps keep me happy. 
