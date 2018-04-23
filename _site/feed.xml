@@ -4,11 +4,50 @@
     <title>jimdab.com</title>
     <description>Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Apr 2018 13:45:19 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 13:45:19 +0000</lastBuildDate>
+    <link>http://jimdab.com/</link>
+    <atom:link href="http://jimdab.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Apr 2018 02:30:19 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Apr 2018 02:30:19 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Kitchen Remodel Part V</title>
+        <description>&lt;p&gt;Almost ready to start!&lt;/p&gt;
+
+&lt;p&gt;So we had our “final walkthrough” a couple of weeks ago, which really wasn’t final, cause we’re gonna have yet another “final walkthrough” just before they actually start – which is Tuesday, May 1. They wanted to start Monday, April 30 but Dena and I will be travelling back from Idyllwild, CA and we didn’t want them to start when no one was here. We figure someone should be here to let them in.&lt;/p&gt;
+
+&lt;p&gt;So, what have we been doing in the meanwhile? Cleaning out the kitchen! We have to get everything moved out so they can start demoing.&lt;/p&gt;
+
+&lt;p&gt;First we had to get everything out and our kitchen looked a bit like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jimdab.com/img/IMG_1192.jpg&quot; alt=&quot;Cleaning the kitchn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then today, Greta, Tom &amp;amp; Traigh came by to take our appliances. Turns out, they’re remodeling &lt;em&gt;their&lt;/em&gt; kitchen as well and our appliances would go just fine in their new kitchen. So what the heck. They also took some of our countertop since they’re building a peninsula as well. Who knew you can just saw through a countertop with a circular saw? So our kitchen looks a bit different now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jimdab.com/img/IMG_1213.jpg&quot; alt=&quot;Cleaning the kitchn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jimdab.com/img/IMG_1212.jpg&quot; alt=&quot;Cleaning the kitchn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The smart reader out there is asking, “What are you doing for eating?” Well, we moved into the basement!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jimdab.com/img/IMG_1209.jpg&quot; alt=&quot;Cleaning the kitchn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jimdab.com/img/IMG_1210.jpg&quot; alt=&quot;Cleaning the kitchn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have this beautiful bar with a mini-fridge and a nice room behind it so we decked it out and we’re basically gonna live down here for the two months while our kitchen is being redone. It’s a bit cozy, but it’ll work.&lt;/p&gt;
+
+&lt;p&gt;That’s it for now. The next step is we meet with them this Thursday for our final-final-walkthrough and then they begin the following Tuesday. Once that happens, I plan to blog every day showing the progress and adding some pithy commentary (I hope). Keep coming back, should be fun!&lt;/p&gt;
+
+&lt;p&gt;JIm&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://jimdab.com/kitchen/2018/04/22/kitchen-remodel-part-v.html</link>
+        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/04/22/kitchen-remodel-part-v.html</guid>
+        
+        
+        <category>kitchen</category>
+        
+      </item>
     
       <item>
         <title>Kitchen Remodel Part IV</title>
@@ -23,8 +62,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/kitchen/2018/04/05/kitchen-remodel-part-iv.html</link>
-        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/04/05/kitchen-remodel-part-iv.html</guid>
+        <link>http://jimdab.com/kitchen/2018/04/05/kitchen-remodel-part-iv.html</link>
+        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/04/05/kitchen-remodel-part-iv.html</guid>
         
         
         <category>kitchen</category>
@@ -38,8 +77,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/kitchen/2018/03/26/kitchen-remodel-part-iii.html</link>
-        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/26/kitchen-remodel-part-iii.html</guid>
+        <link>http://jimdab.com/kitchen/2018/03/26/kitchen-remodel-part-iii.html</link>
+        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/26/kitchen-remodel-part-iii.html</guid>
         
         
         <category>kitchen</category>
@@ -51,8 +90,8 @@
         <description>&lt;p&gt;This is test of the emergency blogging system. If this had been an actual blogging emergency we would have provided information about what do to next. This is only a test.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2018/03/24/this-is-only-a-test.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/03/24/this-is-only-a-test.html</guid>
+        <link>http://jimdab.com/blog/2018/03/24/this-is-only-a-test.html</link>
+        <guid isPermaLink="true">http://jimdab.com/blog/2018/03/24/this-is-only-a-test.html</guid>
         
         
         <category>blog</category>
@@ -65,7 +104,7 @@
 
 &lt;p&gt;Here is a picture of the new floor plan I talked about in the previous post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ignore the way the seating is drawn in there — otherwise its all correct. One big island, fridge built into the wall where we currently have pantry-style cabinets. Take out most of the wall between the kitchen and the family room. Gonna be messy around here for a while (9 weeks!) and Dena and I will be living in the basement that whole time. Should be “fun”.&lt;/p&gt;
 
@@ -74,8 +113,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
-        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
+        <link>http://jimdab.com/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
+        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
         
         
         <category>kitchen</category>
@@ -86,17 +125,17 @@
         <title>Kitchen Remodel Part I</title>
         <description>&lt;p&gt;We decided to remodel our kitchen. Mind you, our kitchen looks fine the way it is…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;but there are some problems. Mostly they stem from the fact that all the cabinet doors are falling off. You see, the previous owners seem to have had all the doors removed, stripped and restained to the color you see here. While that worked fine, one problem we’re finding is that the side walls of the cabinets are that cheap particle board and when you remove screws from it and then try to re-screw the hinges back into the same place, they just don’t stay. So we end up with a number of them looking like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To make matters worse in one place, they wanted a big cabinet, so they just cut out the center partition that holds things up and we now have this happening.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So we want a change.&lt;/p&gt;
 
@@ -110,7 +149,7 @@
 
 &lt;p&gt;Here is how the kitchen is laid out now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re going to remove the peninsula and replace it with a big island. We’re also going to remove the wall between the kitchen and the family room to go with a more open concept.&lt;/p&gt;
 
@@ -119,8 +158,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</link>
-        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</guid>
+        <link>http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</link>
+        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</guid>
         
         
         <category>kitchen</category>
@@ -156,8 +195,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/boat/2018/03/11/back-to-boating.html</link>
-        <guid isPermaLink="true">http://localhost:4000/boat/2018/03/11/back-to-boating.html</guid>
+        <link>http://jimdab.com/boat/2018/03/11/back-to-boating.html</link>
+        <guid isPermaLink="true">http://jimdab.com/boat/2018/03/11/back-to-boating.html</guid>
         
         
         <category>boat</category>
@@ -183,8 +222,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;Like I said at the start, my initial reactions Thursday night were WTF and SMH. After a few days and a few deep breaths, I am beginning to be more optimistic. Only time will tell if Pace is right. Until then I’m going to remain hopeful and continue to cheer on the Chicago Bears.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
+        <link>http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
         
         
         <category>Bears</category>
@@ -206,8 +245,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/thoughts/2017/02/12/that-franklin-quote.html</link>
-        <guid isPermaLink="true">http://localhost:4000/thoughts/2017/02/12/that-franklin-quote.html</guid>
+        <link>http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</link>
+        <guid isPermaLink="true">http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</guid>
         
         
         <category>thoughts</category>
@@ -219,40 +258,11 @@ You see, the next row of planking has to go even with the waterway and there are
         <description>&lt;p&gt;Well that was embarrassing. I wanted to post something here yesterday, fired up my computer, looked in my Sites directory, saw all my files and realized I had no idea which tool I used to build this site. I’ve obsessed for years trying to find the “right” tool to use and have tried many, many tools. Eventually I apparently picked one but now had no idea which one. Looked around my site and my last post was from over a year ago. &lt;em&gt;sigh&lt;/em&gt; This morning I realized that I might have blogged about it. So I looked at a past post and found my &lt;a href=&quot;/blog/2014/08/24/blog-reboot.html&quot;&gt;blog reboot post&lt;/a&gt; wherein I mentioned that I used &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Yay! Of course, for some reason Jekyll wasn’t installed on this machine so I had to reinstall it, but that was easy and now I’m back up and running so when inspiration strikes, I can post. (I’ve also updated the footer on this site to remind me what tool I use to do this.)&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Dec 2016 06:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2016/12/15/well-that-was-embarrassing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/15/well-that-was-embarrassing.html</guid>
+        <link>http://jimdab.com/blog/2016/12/15/well-that-was-embarrassing.html</link>
+        <guid isPermaLink="true">http://jimdab.com/blog/2016/12/15/well-that-was-embarrassing.html</guid>
         
         
         <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>We Killed Our Cat Yesterday</title>
-        <description>&lt;p&gt;We killed our cat yesterday. Well, more accurately, we had him killed yesterday. Such a blunt way of putting it, yet it’s accurate. In polite society we say we “had him put down” which sounds so much nicer  yet amounts to the same thing. His name was Scaliwag (and it bugs me that all my spell-checkers insist his name should be spelled ‘Scalawag’ instead) and he’d been a part of our family for about 15 years.&lt;/p&gt;
-
-&lt;p&gt;We got him when he was somewhere around two or three. Dena had a patient who had been a cat breeder and was getting out of the business. We agreed to adopt Scaliwag into a family that already had 2 other cats: Broccoli and Cauliflower (kinda messed up that vegetable-naming thing we had going on). He fit in OK for the most part. Broccoli was an adult boy black-and-white while Cauliflower was a young tortoise-shell girl. Scaliwag was a young, lean, active and somewhat skittish Siamese with beautiful, sleek tan fur fading to black at the paws and face with strikingly blue eyes. A really beautiful cat.&lt;/p&gt;
-
-&lt;p&gt;Scaliwag was never much on friendship. While the other cats would come and play with us, walk on us and otherwise demand our attention, Scaliwag  never cared much for that. He was, however, a lap cat. If we ever sat down on the couch with our feet up, he was there ready to hop on our laps and make himself comfortable. He was a good cat.&lt;/p&gt;
-
-&lt;p&gt;He outlasted Broccoli and Cauliflower. He died from kidney disease and she a year later from breast cancer. Losing him hit our family the hardest. The kids were still little and it was their first experience with death. He was also the first pet Dena and I had gotten together and was always my buddy. They were eventually replaced by Lion, another young, rambunctious, boy cat, this time dressed in orange tabby. Scaliwag took it all in stride, adopting to the changing family while continuing to sit on our laps and otherwise ignore us.&lt;/p&gt;
-
-&lt;p&gt;Something changed recently and he stopped being himself. Feeding him became more difficult and he started to lose weight. He developed congestion that would make it difficult for him to breathe. Lion became more aggressive to him and he began to hide more and stay away from us more. He just wasn’t himself, though he would still sometimes come and sit on our laps. We weren’t very good parents at this point. We let this go on too long. At first, too much denial, telling ourselves it would just get better. Later, too much guilt for not having taken him to be seen earlier and still hoping it would get better all while he got worse and worse.&lt;/p&gt;
-
-&lt;p&gt;Eventually we got the courage to have him seen and did what we could. Got some medications, tried some new special food but none of it really helped. We thought he was getting better, but he wasn’t. For his last several weeks he lived in the back of Dena’s closet and almost never came out. We would take food to him and find him laying on a towel soaked in urine. He would no longer even use the litter box sitting right beside him. We eventually realized it was time.&lt;/p&gt;
-
-&lt;p&gt;We took him to the vet yesterday. They were very kind and understanding. It kind of surprised us that we were both in tears over this cat who never really fit in to our family and kept himself aloof from us all those years. The vet administered a sedative and I took Scaliwag and sat down with him on my lap. I petted and cried and told him it was OK. He kindly accepted my words, my petting and my lap and quickly and quietly went to sleep.&lt;/p&gt;
-
-&lt;p&gt;Goodbye Scaliwag, we’ll miss you.&lt;/p&gt;
-
-&lt;p&gt;Scaliwag: born 1998?, died August 14, 2015&lt;/p&gt;
-</description>
-        <pubDate>Sat, 15 Aug 2015 05:00:00 +0000</pubDate>
-        <link>http://localhost:4000/cat/2015/08/15/we-killed-our-cat-yesterday.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat/2015/08/15/we-killed-our-cat-yesterday.html</guid>
-        
-        
-        <category>cat</category>
         
       </item>
     
