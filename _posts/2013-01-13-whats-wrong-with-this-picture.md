@@ -1,8 +1,9 @@
 ---
-layout: post
 title: What’s Wrong with this Picture
-date: 2013-01-13 9:45 am
-categories: boat
+date: 2013-01-13 09:45:00 Z
+categories:
+- boat
+layout: post
 ---
 
 Below is a picture of my boat work area. What's wrong with this picture? 

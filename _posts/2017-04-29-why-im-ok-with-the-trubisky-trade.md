@@ -1,9 +1,11 @@
 ---
+title: Why I'm OK with the Mitch Trubisky Trade
+date: 2017-04-29 00:00:00 Z
+categories:
+- Bears
 layout: post
-title: "Why I'm OK with the Mitch Trubisky Trade"
-date: 2017-04-29
-categories: Bears
 ---
+
 [Thursday night](http://www.nfl.com/draft/2017/profiles/mitchell-trubisky?id=2558008) I said to my wife I thought the Bears were suddenly 5+ years away from being competitive. Another couple years of Pace & Co., they're fired and the Bears are back to looking for a new GM, head coach and several more years of rebuilding. Trading away 3 picks to move up one spot for a quarterback that would likely have been there for them at #3 made no sense to me. After a few days to mull it over and read opinions, my feelings have changed. 
 
 It's clear the Bears, specifically Ryan Pace, think that Trubisky can be _The Guy_. By that I mean they believe Trubisky has the potential to be a 10+ year starter for the Bears who will play at least as well as guys like Matt Ryan, Matt Stafford, Carson Palmer and Eli Manning. A true "franchise quarterback". Now I agree we can all debate this. Pre-draft you could take nearly every top quarterback ([Kizer](http://www.nfl.com/news/story/0ap3000000787378/article/2017-nfl-draft-deshone-kizer-mitch-trubisky-top-qb-prospects), [Watson](https://www.profootballfocus.com/draft-top-nfl-prospects-every-position-2017/), [Trubisky](https://walterfootball.com/draft2017QB.php), Mahomes) and find some analyst that had each one picked as the best quarterback in the draft and find others explaining in detail why each of them will be a bust. None of that matters. What matters is that Ryan Pace and the Bears clearly made the decision Trubisky was _The Guy_ for them and they were going to get him in the first round no matter what. 

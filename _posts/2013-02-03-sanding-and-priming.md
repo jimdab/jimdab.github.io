@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Sanding & Priming
+date: 2013-02-03 12:17:00 Z
+categories:
+- boat
+layout: post
 author: jimdab
-date: 2013-02-03 12:17 PM
-categories: boat
 ---
 
 Just a minor update here. I've been working steadily on the boat actually, but there just isn't too much to show you. 

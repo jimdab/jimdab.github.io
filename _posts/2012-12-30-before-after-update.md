@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Before & After Update
-date: 2012-12-30 9:02 AM
-categories: boat
+date: 2012-12-30 09:02:00 Z
+categories:
+- boat
+layout: post
 ---
 
 Well, I've been working on my boat some, just not posting here very much. Thought I'd give you all a before & after update. 

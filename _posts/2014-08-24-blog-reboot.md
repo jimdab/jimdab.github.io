@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Blog Reboot
-date: 2014-8-24 8:12 AM
-categories: blog
+date: 2014-08-24 08:12:00 Z
+categories:
+- blog
+layout: post
 ---
 
 Welcome to my blog reboot. 

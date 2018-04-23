@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Planking Complete
-date: 2012-7-17 6:58 PM
-categories: boat
+date: 2012-07-17 18:58:00 Z
+categories:
+- boat
+layout: post
 ---
 
 Yay! I've finished planking the boat! I'm pretty excited that I've been able to complete what many consider to be the most difficult part of building a model ship (next to the rigging, I suppose).

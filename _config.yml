@@ -1,10 +1,16 @@
-# Site settings
+---
 title: jimdab.com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: jimdab@jimdab.com
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jimdab.com" # the base hostname & protocol for your site
-
-# Build settings
+description: "Welcome to my own little corner of the web where I will continue to
+  try to practice my writing by sharing my thoughts. \n"
+baseurl: ''
+url: http://jimdab.com
 markdown: kramdown

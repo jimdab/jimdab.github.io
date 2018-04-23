@@ -1,8 +1,9 @@
 ---
-layout: post
 title: May the Fourth...
-date: 2014-05-04
-categories: thoughts
+date: 2014-05-04 00:00:00 Z
+categories:
+- thoughts
+layout: post
 ---
 
 OK, I succumbed to the whole "May the 4th" thing and decided to get my geek on and watch Star Wars tonight. My mistake. When we moved last summer we decided to set up the home theater in the basement and leave the TV in the living room as just a TV (with an AppleTV hooked up to it). Up until now that arrangement has worked just fine.

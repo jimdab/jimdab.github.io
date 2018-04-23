@@ -1,8 +1,9 @@
 ---
-layout: post
 title: The Nibbing Strake
-date: 2013-02-17 12:33 PM
-categories: boat
+date: 2013-02-17 12:33:00 Z
+categories:
+- boat
+layout: post
 author: jimdab
 ---
 

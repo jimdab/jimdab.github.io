@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Trenailing
+date: 2013-01-06 10:11:00 Z
+categories:
+- boat
+layout: post
 author: jimdab
-date: 2013-01-06 10:11 AM
-categories: boat
 ---
 
 Yep, it's pronounced tree-nailing because that is what I am doing. The planks on a ship are usually held in place with wooden pegs driven into the ends of each plank and into each bulkhead the plank spans. So, to simulate that on the Bluenose, I have to get a bunch of little sticks, drill holes in all the planks at each bulkhead and glue them in place. How small you say? How does .028&#8243; diameter grab ya? 

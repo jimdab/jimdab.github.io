@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Seven-Eighths!
-date: 2012-07-01 8:42 AM
-categories: boat
+date: 2012-07-01 08:42:00 Z
+categories:
+- boat
+layout: post
 ---
 
 I've completed one entire side of planking! Pics below. This last belt is sort of weird in that I had to put the garboard plank (the plank closest to the keel) in first, and then fit in six other rows of planking in between. Furthermore, each of the rows of planks pretty much grew wider as they moved toward the stern. This last row is much wider than the previous rows. Things got a little messy at the end near the stern. I think that a lot of that will clean up with filler and sanding. Also, the boat is being painted in a dark red when done so that will help hide some of the imperfections. (That's a terrible attitude to take, isn't it?) 

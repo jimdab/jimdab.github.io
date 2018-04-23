@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Before & After
-date: 2012-11-10 10:44 AM
-categories: boat
+date: 2012-11-10 10:44:00 Z
+categories:
+- boat
+layout: post
 ---
 
 Before:

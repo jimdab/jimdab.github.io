@@ -1,8 +1,9 @@
 ---
-layout: post
 title: I think I'm a Jogger
-date: 2014-8-31 4:26 PM
-categories: jogging
+date: 2014-08-31 16:26:00 Z
+categories:
+- jogging
+layout: post
 ---
 
 OK, I think I'm a jogger. 
