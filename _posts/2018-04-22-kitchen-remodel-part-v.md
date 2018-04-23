@@ -1,8 +1,9 @@
 ---
 title: Kitchen Remodel Part V
-date: 2018-04-22
+date: 2018-04-22 00:00:00 Z
+categories:
+- kitchen
 layout: post
-categories: kitchen
 ---
 
 Almost ready to start!
