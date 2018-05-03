@@ -4,11 +4,44 @@
     <title>jimdab.com</title>
     <description>Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
 </description>
-    <link>http://jimdab.com/</link>
-    <atom:link href="http://jimdab.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 May 2018 01:56:36 +0000</pubDate>
-    <lastBuildDate>Wed, 02 May 2018 01:56:36 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 May 2018 03:21:08 +0000</pubDate>
+    <lastBuildDate>Thu, 03 May 2018 03:21:08 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Kitchen Remodel Day 2</title>
+        <description>&lt;p&gt;I’m shocked. I honestly think never before in the history of home remodeling projects has a project been reduced in scope and price. But yet, that is exactly what happened to me today.&lt;/p&gt;
+
+&lt;p&gt;I generally approach this project with the thought that if the project lead ever calls me in the middle of the day, it’s gonna be bad news. Why else would they need to call, right? So today I get a call from Jerry and I’m thinking, “oh shit.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;phone rings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Jim: Hello.&lt;/p&gt;
+
+&lt;p&gt;Jerry: Hi Jim, this is Jerry, how you doing today?&lt;/p&gt;
+
+&lt;p&gt;Jim: Fine ’til you called. (Yes, I really said that, I know, I’m a jerk.)&lt;/p&gt;
+
+&lt;p&gt;But then he goes on to tell me that he actually had good news. Remember that tile over tile over concrete thing in the foyer? Well, turns out, he decided if he removed it all the way down, he would have to rebuild up the subfloor by 2–3” which seemed silly to him. So he had the bright idea to only remove the top layer of tile and then tile right back over the old layer. This means no jackhammering, no rebuilding up the subfloor which saves both time and money from the original quote! Yay me! So, all he has to do is fix up that area they already dug into and they’re good.&lt;/p&gt;
+
+&lt;p&gt;Will wonders never cease? Let’s hope so.&lt;/p&gt;
+
+&lt;p&gt;As for the rest of the kitchen, they basically got all the tile off. That was about it for the day. I’ll leave you with one glorious picture of a plywood floor and talk to you later.&lt;/p&gt;
+
+&lt;p&gt;JIm&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1270.jpg&quot; alt=&quot;Day 2 kitchen floor&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/kitchen/2018/05/02/kitchen-remodel-day-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/05/02/kitchen-remodel-day-2.html</guid>
+        
+        
+        <category>kitchen</category>
+        
+      </item>
     
       <item>
         <title>Kitchen Remodel Day 1</title>
@@ -17,22 +50,22 @@
 &lt;p&gt;First a reminder.&lt;/p&gt;
 
 &lt;p&gt;Before: 
-&lt;img src=&quot;http://jimdab.com/img/IMG_1129.jpg&quot; alt=&quot;Before 1&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/img/IMG_1129.jpg&quot; alt=&quot;Before 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1124.jpg&quot; alt=&quot;Before 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1124.jpg&quot; alt=&quot;Before 2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1131.jpg&quot; alt=&quot;Before 3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1131.jpg&quot; alt=&quot;Before 3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And after: 
-&lt;img src=&quot;http://jimdab.com/img/IMG_1262.jpg&quot; alt=&quot;After 1&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/img/IMG_1262.jpg&quot; alt=&quot;After 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1263.jpg&quot; alt=&quot;After 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1263.jpg&quot; alt=&quot;After 2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1264.jpg&quot; alt=&quot;After 3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1264.jpg&quot; alt=&quot;After 3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And I must say, this is going to be interesting:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1266.jpg&quot; alt=&quot;Foyer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1266.jpg&quot; alt=&quot;Foyer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They mentioned there being concrete below the tile in the foyer but they didn’t quite notice the layer of tile &lt;em&gt;below&lt;/em&gt; the current tile, and then concrete below that. No word yet on if this’ll cost us extra. They were already anticipating having to jack-hammer all the concrete out—maybe that extra layer of tile won’t matter.&lt;/p&gt;
 
@@ -41,8 +74,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/kitchen/2018/05/01/kitchen-remodel-day-1.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/05/01/kitchen-remodel-day-1.html</guid>
+        <link>http://localhost:4000/kitchen/2018/05/01/kitchen-remodel-day-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/05/01/kitchen-remodel-day-1.html</guid>
         
         
         <category>kitchen</category>
@@ -80,8 +113,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/kitchen/2018/04/22/kitchen-remodel-part-v.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/04/22/kitchen-remodel-part-v.html</guid>
+        <link>http://localhost:4000/kitchen/2018/04/22/kitchen-remodel-part-v.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/04/22/kitchen-remodel-part-v.html</guid>
         
         
         <category>kitchen</category>
@@ -101,8 +134,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/kitchen/2018/04/05/kitchen-remodel-part-iv.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/04/05/kitchen-remodel-part-iv.html</guid>
+        <link>http://localhost:4000/kitchen/2018/04/05/kitchen-remodel-part-iv.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/04/05/kitchen-remodel-part-iv.html</guid>
         
         
         <category>kitchen</category>
@@ -116,8 +149,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/kitchen/2018/03/26/kitchen-remodel-part-iii.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/26/kitchen-remodel-part-iii.html</guid>
+        <link>http://localhost:4000/kitchen/2018/03/26/kitchen-remodel-part-iii.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/26/kitchen-remodel-part-iii.html</guid>
         
         
         <category>kitchen</category>
@@ -129,8 +162,8 @@
         <description>&lt;p&gt;This is test of the emergency blogging system. If this had been an actual blogging emergency we would have provided information about what do to next. This is only a test.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/blog/2018/03/24/this-is-only-a-test.html</link>
-        <guid isPermaLink="true">http://jimdab.com/blog/2018/03/24/this-is-only-a-test.html</guid>
+        <link>http://localhost:4000/blog/2018/03/24/this-is-only-a-test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/03/24/this-is-only-a-test.html</guid>
         
         
         <category>blog</category>
@@ -143,7 +176,7 @@
 
 &lt;p&gt;Here is a picture of the new floor plan I talked about in the previous post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1175.jpg&quot; alt=&quot;Revised floor plan&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ignore the way the seating is drawn in there — otherwise its all correct. One big island, fridge built into the wall where we currently have pantry-style cabinets. Take out most of the wall between the kitchen and the family room. Gonna be messy around here for a while (9 weeks!) and Dena and I will be living in the basement that whole time. Should be “fun”.&lt;/p&gt;
 
@@ -152,8 +185,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
+        <link>http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/23/kitchen-remodel-part-ii.html</guid>
         
         
         <category>kitchen</category>
@@ -164,17 +197,17 @@
         <title>Kitchen Remodel Part I</title>
         <description>&lt;p&gt;We decided to remodel our kitchen. Mind you, our kitchen looks fine the way it is…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1115.jpg&quot; alt=&quot;Kitchen 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1113.jpg&quot; alt=&quot;Kitchen 2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;but there are some problems. Mostly they stem from the fact that all the cabinet doors are falling off. You see, the previous owners seem to have had all the doors removed, stripped and restained to the color you see here. While that worked fine, one problem we’re finding is that the side walls of the cabinets are that cheap particle board and when you remove screws from it and then try to re-screw the hinges back into the same place, they just don’t stay. So we end up with a number of them looking like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1172.jpg&quot; alt=&quot;Hinge falling off&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To make matters worse in one place, they wanted a big cabinet, so they just cut out the center partition that holds things up and we now have this happening.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1173.jpg&quot; alt=&quot;Cabinet sag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So we want a change.&lt;/p&gt;
 
@@ -188,7 +221,7 @@
 
 &lt;p&gt;Here is how the kitchen is laid out now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://jimdab.com/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/IMG_1169.jpg&quot; alt=&quot;Original kitchen layout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re going to remove the peninsula and replace it with a big island. We’re also going to remove the wall between the kitchen and the family room to go with a more open concept.&lt;/p&gt;
 
@@ -197,8 +230,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</link>
-        <guid isPermaLink="true">http://jimdab.com/kitchen/2018/03/18/kitchen-remodel.html</guid>
+        <link>http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/kitchen/2018/03/18/kitchen-remodel.html</guid>
         
         
         <category>kitchen</category>
@@ -234,8 +267,8 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/boat/2018/03/11/back-to-boating.html</link>
-        <guid isPermaLink="true">http://jimdab.com/boat/2018/03/11/back-to-boating.html</guid>
+        <link>http://localhost:4000/boat/2018/03/11/back-to-boating.html</link>
+        <guid isPermaLink="true">http://localhost:4000/boat/2018/03/11/back-to-boating.html</guid>
         
         
         <category>boat</category>
@@ -261,34 +294,11 @@ You see, the next row of planking has to go even with the waterway and there are
 &lt;p&gt;Like I said at the start, my initial reactions Thursday night were WTF and SMH. After a few days and a few deep breaths, I am beginning to be more optimistic. Only time will tell if Pace is right. Until then I’m going to remain hopeful and continue to cheer on the Chicago Bears.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
-        <guid isPermaLink="true">http://jimdab.com/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
+        <link>http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bears/2017/04/29/why-im-ok-with-the-trubisky-trade.html</guid>
         
         
         <category>Bears</category>
-        
-      </item>
-    
-      <item>
-        <title>That Ben Franklin Quote</title>
-        <description>&lt;p&gt;Hmm. Lately again I’ve seen this quote floating around on Facebook and other social media sites:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety” – Ben Franklin&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is often used by people to justify their standing up for their individual rights against an oppressive federal government. I decided to do some research to get some historical context and came up with this: &lt;a href=&quot;https://www.lawfareblog.com/what-ben-franklin-really-said&quot;&gt;What Ben Franklin Really Said&lt;/a&gt;. Turns out, it’s really being misused in most circumstances.&lt;/p&gt;
-
-&lt;p&gt;When Franklin wrote that, he was writing to the Governor of Pennsylvania. The state legislature was attempting to pass a law raising taxes on land owners to pay for a militia to help defend homesteads on the border against Indian attacks. The Governor (at the request of the Penn family) kept vetoing the legislation. The Penn family offered to pay for the militia out of their pocket if the legislature would agree they did not have the authority to levy such a tax. This was what Franklin was arguing: Giving up the essential liberty of self-governance to obtain temporary safety was wrong. The legislature had the right and the duty to act in the best interests of the people. Seems to me, the most parallel situation today is our Congress’s unwillingness to challenge executive orders ostensibly designed to protect our borders and keep us safe. If there is such a threat to our safety and security, then Congress ought to be passing laws to increase border protection and raise the taxes necessary to pay for such protection, rather than ceding that authority to the President. The Democratic Congress was derelict in its duty when it allowed then President Bush to launch wars for our protection through executive orders rather than through a congressional declaration of war. Republicans in congress showed some spine when Mr. Obama was in office and they were willing to challenge some of his orders, but now that they have “their guy” in office, they too are willing to cede their responsibility to the President. All those people who want change in Washington need to remember this in 2018 when all of congress is up for reelection. Vote for people who will stand up for our constitutional rights and who will do their job rather than running scared from a President with a twitter account just because he belongs to your party.&lt;/p&gt;
-
-&lt;p&gt;JIm&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</link>
-        <guid isPermaLink="true">http://jimdab.com/thoughts/2017/02/12/that-franklin-quote.html</guid>
-        
-        
-        <category>thoughts</category>
         
       </item>
     
