@@ -4,11 +4,11 @@ date: 2018-07-06
 layout: post
 categories: kitchen
 ---
-## Lein on Me!
+## Lien on Me!
 
 Heh, so on the third, we got a notice in our mailbox of a certified letter waiting for us that required a signature. It said the sender was Grams & Associates. Well, that sounded interesting. So a quick [DuckDuckGo](https://duckduckgo.com) search turns up [David F. Grams & Associates, S.C. Attorneys at Law](https://www.dfgrams.com). They're a law firm in Madison specializing in Trusts and Estates and Business Law. Got me interested. So of course, this is now a holiday so I have to wait to be able to go get the letter. Luckily for me, I usually work from home on Fridays so today I was able to run and pick it up. Here's what it said. 
 
-![Lein letter]({{ site.url }}/img/IMG_1407.jpg)
+![Lien letter]({{ site.url }}/img/IMG_1407.jpg)
 
 For those who don't want to zoom in it says in part: 
 
