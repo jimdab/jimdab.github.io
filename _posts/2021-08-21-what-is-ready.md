@@ -1,0 +1,13 @@
+---
+title: What is “ready”? 
+date: 2021-08-21
+layout: post
+categories: bears
+---
+On the eve of pre-season game 2 and I’m so tired of this. I listen to several Bears podcasts, read many Bears blogs, follow lots of Bears fans on Twitter and I hear non-ending speculation about when Justin Fields will start. Some people point to Nagy saying that Dalton is their starter so therefore Fields won’t get to start week 1. Others hang on Nagy saying they’ll follow the plan they used for Mahomes in Kansas City and therefore they won’t start Fields until the end of this season if at all. All of them then use this to complain about Nagy’s decision as to when he’ll start Fields. The one thing the Bears coaching staff have consistently said is they will start Fields when he’s “ready” but the problem is, no one knows what Nagy’s definition of “ready” is. 
+
+Allow me to digress with an analogy. When learning to fly an airplane, you spend some time studying the manuals and learning about the process of flying. You spend some time in simulators so you can get a feel for what it will be like in an actual airplane. Eventually though you’ve done all you can and you just have to get into a plane and fly it. It doesn’t mean you know everything about how to fly a plane. It doesn’t mean you won’t make any mistakes while flying. It doesn’t mean there won’t be a point a which the instructor has to take control of the plane to stop you from crashing. It just means, you’ve learned all you can on the ground and are “ready” to go fly. 
+
+I believe Nagy when he says he’ll start Fields whenever he and the coaching staff determine he’s ready to start. They won’t wait for the right soft spot in the schedule. They won’t play Dalton just because they said at some point he’s the starting quarterback. They won’t keep Fields on the bench just because they kept Mahomes on the bench for most of his rookie season. They will start Fields when he’s ready whether that’s week 1, week 18 or somewhere in between. It doesn’t mean Fields will be perfect once he’s out there it just means he’s done all he can in training camp and in meeting rooms and now he has to get out there and play. I personally think it will be much closer to week 1 than to week 18 and I think it’s not unlikely he’ll be the starter in week 1. I will be in LA for the week 1 opener and sure hope I get to see the Justin Fields’ debut as a Chicago Bear and that he plays for them for many years to come. 
+
+JIm

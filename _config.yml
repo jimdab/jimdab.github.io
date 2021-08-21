@@ -14,5 +14,8 @@ description: "Welcome to my own little corner of the web where I will continue t
 baseurl: ''
 url: http://jimdab.com
 markdown: kramdown
-
-theme: jekyll-theme-minimal
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-admin

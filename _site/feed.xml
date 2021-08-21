@@ -4,11 +4,41 @@
     <title>jimdab.com</title>
     <description>Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Apr 2021 12:44:39 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Apr 2021 12:44:39 +0000</lastBuildDate>
+    <link>http://jimdab.com/</link>
+    <atom:link href="http://jimdab.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Aug 2021 15:52:40 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Aug 2021 15:52:40 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>What is “ready”?</title>
+        <description>&lt;p&gt;On the eve of pre-season game 2 and I’m so tired of this. I listen to several Bears podcasts, read many Bears blogs, follow lots of Bears fans on Twitter and I hear non-ending speculation about when Justin Fields will start. Some people point to Nagy saying that Dalton is their starter so therefore Fields won’t get to start week 1. Others hang on Nagy saying they’ll follow the plan they used for Mahomes in Kansas City and therefore they won’t start Fields until the end of this season if at all. All of them then use this to complain about Nagy’s decision as to when he’ll start Fields. The one thing the Bears coaching staff have consistently said is they will start Fields when he’s “ready” but the problem is, no one knows what Nagy’s definition of “ready” is.&lt;/p&gt;
+
+&lt;p&gt;Allow me to digress with an analogy. When learning to fly an airplane, you spend some time studying the manuals and learning about the process of flying. You spend some time in simulators so you can get a feel for what it will be like in an actual airplane. Eventually though you’ve done all you can and you just have to get into a plane and fly it. It doesn’t mean you know everything about how to fly a plane. It doesn’t mean you won’t make any mistakes while flying. It doesn’t mean there won’t be a point a which the instructor has to take control of the plane to stop you from crashing. It just means, you’ve learned all you can on the ground and are “ready” to go fly.&lt;/p&gt;
+
+&lt;p&gt;I believe Nagy when he says he’ll start Fields whenever he and the coaching staff determine he’s ready to start. They won’t wait for the right soft spot in the schedule. They won’t play Dalton just because they said at some point he’s the starting quarterback. They won’t keep Fields on the bench just because they kept Mahomes on the bench for most of his rookie season. They will start Fields when he’s ready whether that’s week 1, week 18 or somewhere in between. It doesn’t mean Fields will be perfect once he’s out there it just means he’s done all he can in training camp and in meeting rooms and now he has to get out there and play. I personally think it will be much closer to week 1 than to week 18 and I think it’s not unlikely he’ll be the starter in week 1. I will be in LA for the week 1 opener and sure hope I get to see the Justin Fields’ debut as a Chicago Bear and that he plays for them for many years to come.&lt;/p&gt;
+
+&lt;p&gt;JIm&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        <link>http://jimdab.com/bears/2021/08/21/what-is-ready.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2021/08/21/what-is-ready.html</guid>
+        
+        
+        <category>bears</category>
+        
+      </item>
+    
+      <item>
+        <title>Setting up admin</title>
+        <description>&lt;p&gt;I learned jekyll has an admin plugin that lets me create and maintain my site via a web-based GUI. This is my first post using that plugin. Nice.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+        <link>http://jimdab.com/2021/04/12/setting-up-admin.html</link>
+        <guid isPermaLink="true">http://jimdab.com/2021/04/12/setting-up-admin.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Bears at Rams Prediction</title>
@@ -25,8 +55,8 @@ Bears: ~20&lt;br /&gt;
 Panthers: &amp;lt;=13&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/26/bears-at-rams-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/26/bears-at-rams-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/10/26/bears-at-rams-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/26/bears-at-rams-prediction.html</guid>
         
         
         <category>bears</category>
@@ -46,8 +76,8 @@ Bears: 23&lt;br /&gt;
 Panthers: 16&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/19/bears-at-panthers-postgame.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/19/bears-at-panthers-postgame.html</guid>
+        <link>http://jimdab.com/bears/2020/10/19/bears-at-panthers-postgame.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/19/bears-at-panthers-postgame.html</guid>
         
         
         <category>bears</category>
@@ -67,8 +97,8 @@ Bears: 20+&lt;br /&gt;
 Panthers: &amp;lt;=10&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/18/bears-at-panthers-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/18/bears-at-panthers-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/10/18/bears-at-panthers-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/18/bears-at-panthers-prediction.html</guid>
         
         
         <category>bears</category>
@@ -90,8 +120,8 @@ Bears: 30+&lt;br /&gt;
 Falcons: 20s&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/03/bears-v-colts-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/03/bears-v-colts-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/10/03/bears-v-colts-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/03/bears-v-colts-prediction.html</guid>
         
         
         <category>bears</category>
@@ -109,8 +139,8 @@ Falcons: 20s&lt;/p&gt;
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/28/bears-at-falcons-post-game.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/28/bears-at-falcons-post-game.html</guid>
+        <link>http://jimdab.com/bears/2020/09/28/bears-at-falcons-post-game.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/28/bears-at-falcons-post-game.html</guid>
         
         
         <category>bears</category>
@@ -128,8 +158,8 @@ Bears: Somewhere in the teens&lt;br /&gt;
 Falcons: &amp;gt;= 2x whatever the Bears score&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/25/bears-at-falcons-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/25/bears-at-falcons-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/09/25/bears-at-falcons-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/25/bears-at-falcons-prediction.html</guid>
         
         
         <category>bears</category>
@@ -147,8 +177,8 @@ Falcons: &amp;gt;= 2x whatever the Bears score&lt;/p&gt;
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/21/bears-v-giants-postgame.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/21/bears-v-giants-postgame.html</guid>
+        <link>http://jimdab.com/bears/2020/09/21/bears-v-giants-postgame.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/21/bears-v-giants-postgame.html</guid>
         
         
         <category>bears</category>
@@ -172,58 +202,8 @@ Giants: ?&lt;br /&gt;
 Bears: ?&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/19/bears-v-giants-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/19/bears-v-giants-prediction.html</guid>
-        
-        
-        <category>bears</category>
-        
-      </item>
-    
-      <item>
-        <title>Bears vs. Lions Post Game</title>
-        <description>&lt;p&gt;Wow. Just wow.&lt;/p&gt;
-
-&lt;p&gt;For three quarters I was spot-on in my prediction for this game. Trubisky looked totally lost and as bad or worse than he had in any game in 2019. Missing wide open receivers, overthrowing, throwing behind. He sucked. Bad. I seriously believed they should bench him at half and bring in Foles, he was that bad. Defense also sucked. The pass rush was virtually non-existent, Mack was having a hard time beating single blockers, Stafford was having his way throwing the ball and AP was gashing them in the running game.&lt;/p&gt;
-
-&lt;p&gt;Finally, at the end of the 3rd quarter Bears get the ball back and I swear to God I texted my brothers and said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Going totally homer here: OK, now it clicks and Mitch balls out and scores 3 TDS in a row here. Bears win 27-23.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And sure as shit he does that. All of a sudden Trubisky is completing beautiful passes down field and completely took charge of the game. I don’t get it. Had this game ended in a loss, I could easily see them starting Foles next week. As it is, I don’t see how they can &lt;em&gt;not&lt;/em&gt; start him.&lt;/p&gt;
-
-&lt;p&gt;As usual, the Bears gave me my full 3 hours of excitement and entertainment. Sometimes utterly heart-breaking other times thrilling. Can’t wait til next week!&lt;/p&gt;
-
-&lt;p&gt;JIm&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/13/bears-at-lions-post-game.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/13/bears-at-lions-post-game.html</guid>
-        
-        
-        <category>bears</category>
-        
-      </item>
-    
-      <item>
-        <title>Bears at Lions Game Prediction</title>
-        <description>&lt;p&gt;Let’s start this off right from the top: Hate to say it, I don’t see the Bears winning this game. The Bears defense isn’t going to dominate as everyone seems to expect and the offense for the first time in recent years will be stymied by the Lions defense.&lt;/p&gt;
-
-&lt;p&gt;Mitch Trubisky has played some of his best games vs. the Lions. According to most people who know way more about this than me, this is because under head coach Matt Patricia, the Lions tend not to disguise their coverage or use many stunts when rushing the QB. As a result, what Trubisky sees pre-snap is what he encounters after the play starts. However, this is Patricia’s third year with Detroit and the general consensus is if they don’t improve and make the playoffs this year, both he and their General Manager will be out. Accordingly, Detroit brought in a new Defensive Coordinator and, if everyone I’ve read recognizes the reason Trubisky has been so successful against the Lions is because of how they play their defense, I have to believe the Lions know this too and will finally be prepared for him. I expect them to do things on defense designed to confuse Trubisky and he’ll regress to his 2019 self of stupid indecision and leave the offense struggling.&lt;/p&gt;
-
-&lt;p&gt;On the defensive side of the ball for some reason most people I read seem to be discounting the fact that both their edge rushers, Khalil Mack and Robert Quinn are injured with Quinn listed as doubtful. In the first half of last season, Matt Stafford was playing some of the best football of his career before he got injured. Word is this season he’s looking even better and people are expecting him to pick up right where he left off last year. Without Quinn and Mack putting pressure on Stafford, he will have plenty of time to pick apart the Bears defense.&lt;/p&gt;
-
-&lt;p&gt;With the offense struggling and the defense unable to pressure Stafford consistently, I see the Bears struggling and eventually losing this game. I hope I’m wrong.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Final score&lt;/strong&gt;&lt;br /&gt;
-Bears 17&lt;br /&gt;
-Lions 24&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/12/bears-at-lions.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/12/bears-at-lions.html</guid>
+        <link>http://jimdab.com/bears/2020/09/19/bears-v-giants-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/19/bears-v-giants-prediction.html</guid>
         
         
         <category>bears</category>
