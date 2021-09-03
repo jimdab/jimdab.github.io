@@ -4,10 +4,10 @@
     <title>jimdab.com</title>
     <description>Welcome to my own little corner of the web where I will continue to try to practice my writing by sharing my thoughts. 
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Sep 2021 15:14:33 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Sep 2021 15:14:33 +0000</lastBuildDate>
+    <link>http://jimdab.com/</link>
+    <atom:link href="http://jimdab.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Sep 2021 15:27:09 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Sep 2021 15:27:09 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -21,8 +21,8 @@
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2021/08/21/what-is-ready.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2021/08/21/what-is-ready.html</guid>
+        <link>http://jimdab.com/bears/2021/08/21/what-is-ready.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2021/08/21/what-is-ready.html</guid>
         
         
         <category>bears</category>
@@ -34,8 +34,8 @@
         <description>&lt;p&gt;I learned jekyll has an admin plugin that lets me create and maintain my site via a web-based GUI. This is my first post using that plugin. Nice.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2021/04/12/setting-up-admin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/04/12/setting-up-admin.html</guid>
+        <link>http://jimdab.com/2021/04/12/setting-up-admin.html</link>
+        <guid isPermaLink="true">http://jimdab.com/2021/04/12/setting-up-admin.html</guid>
         
         
       </item>
@@ -55,8 +55,8 @@ Bears: ~20&lt;br /&gt;
 Panthers: &amp;lt;=13&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/26/bears-at-rams-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/26/bears-at-rams-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/10/26/bears-at-rams-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/26/bears-at-rams-prediction.html</guid>
         
         
         <category>bears</category>
@@ -76,8 +76,8 @@ Bears: 23&lt;br /&gt;
 Panthers: 16&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/19/bears-at-panthers-postgame.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/19/bears-at-panthers-postgame.html</guid>
+        <link>http://jimdab.com/bears/2020/10/19/bears-at-panthers-postgame.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/19/bears-at-panthers-postgame.html</guid>
         
         
         <category>bears</category>
@@ -97,8 +97,8 @@ Bears: 20+&lt;br /&gt;
 Panthers: &amp;lt;=10&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/18/bears-at-panthers-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/18/bears-at-panthers-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/10/18/bears-at-panthers-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/18/bears-at-panthers-prediction.html</guid>
         
         
         <category>bears</category>
@@ -120,8 +120,8 @@ Bears: 30+&lt;br /&gt;
 Falcons: 20s&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/10/03/bears-v-colts-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/10/03/bears-v-colts-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/10/03/bears-v-colts-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/10/03/bears-v-colts-prediction.html</guid>
         
         
         <category>bears</category>
@@ -139,8 +139,8 @@ Falcons: 20s&lt;/p&gt;
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/28/bears-at-falcons-post-game.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/28/bears-at-falcons-post-game.html</guid>
+        <link>http://jimdab.com/bears/2020/09/28/bears-at-falcons-post-game.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/28/bears-at-falcons-post-game.html</guid>
         
         
         <category>bears</category>
@@ -158,8 +158,8 @@ Bears: Somewhere in the teens&lt;br /&gt;
 Falcons: &amp;gt;= 2x whatever the Bears score&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/25/bears-at-falcons-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/25/bears-at-falcons-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/09/25/bears-at-falcons-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/25/bears-at-falcons-prediction.html</guid>
         
         
         <category>bears</category>
@@ -177,8 +177,8 @@ Falcons: &amp;gt;= 2x whatever the Bears score&lt;/p&gt;
 &lt;p&gt;JIm&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/21/bears-v-giants-postgame.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/21/bears-v-giants-postgame.html</guid>
+        <link>http://jimdab.com/bears/2020/09/21/bears-v-giants-postgame.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/21/bears-v-giants-postgame.html</guid>
         
         
         <category>bears</category>
@@ -202,8 +202,8 @@ Giants: ?&lt;br /&gt;
 Bears: ?&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bears/2020/09/19/bears-v-giants-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/bears/2020/09/19/bears-v-giants-prediction.html</guid>
+        <link>http://jimdab.com/bears/2020/09/19/bears-v-giants-prediction.html</link>
+        <guid isPermaLink="true">http://jimdab.com/bears/2020/09/19/bears-v-giants-prediction.html</guid>
         
         
         <category>bears</category>
